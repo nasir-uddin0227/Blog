@@ -12,3 +12,13 @@ footer {
     margin-top: 40px;
     text-align: center;
 }
+
+span {
+    background-color: yellow;
+    font-weight: 600;
+}
+
+#stories {
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
